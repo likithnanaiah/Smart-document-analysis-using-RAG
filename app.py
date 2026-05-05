@@ -30,7 +30,7 @@ from rag import query_with_history
 
 # ── sidebar ───────────────────────────────────────────────
 with st.sidebar:
-    st.title("RAG-PDF-Assistant")
+    st.title("📄Smart Document Analyser using RAG📄")
     st.caption("Local RAG — runs fully on your machine")
     st.caption("Developed by NANAIAH K K")
     st.divider()
