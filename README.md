@@ -115,6 +115,6 @@ GROQ_API_KEY = "your_groq_api_key_here"
 
 > **Note:** First deploy takes 3–5 minutes as it downloads the sentence-transformers model. Subsequent cold starts are faster.
 
-## Live Demo
+## Live Demo 
 
-[RAG-PDF-Assistant on Streamlit Cloud](https://rag-pdfassistant.streamlit.app/)
+[RAG-PDF-Assistant on Streamlit Cloud](https://smart-document-analysis-using-rag.streamlit.app/)
