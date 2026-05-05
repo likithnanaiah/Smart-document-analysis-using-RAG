@@ -32,6 +32,7 @@ from rag import query_with_history
 with st.sidebar:
     st.title("RAG-PDF-Assistant")
     st.caption("Local RAG — runs fully on your machine")
+    st.caption("Developed by NANAIAH K K")
     st.divider()
 
     uploaded = st.file_uploader("Upload a PDF", type="pdf")
